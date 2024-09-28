@@ -420,6 +420,9 @@ https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxQbpTd2/images-8.png" group-title="KOLKATA", TARA BANGLA CINEMA 
 http://103.145.48.150:90/laosat24/taratv/index.m3u8  
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/48/Sananda_TV_logo_%282011%29.png/revision/latest?cb=20210428083412" group-title="KOLKATA", SANANDA TV
+http://54.38.79.60:2020/sananda/tracks-v1a1/mono.m3u8 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="KOLKATA", SONY AATH
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
