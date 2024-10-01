@@ -194,7 +194,7 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=he4be5di&e=.m3u8|Referer=https://
 Jagobd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13z88RF4/20240925-081506.png" group-title="JAGOBD", Ekushey TV
-https://global.ncare.live/live-orgin/ekusheytv-8-org.stream/playlist.m3u8
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3BS2efe8497gpL6efDrMQA/ts 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="JAGOBD", Ekattor TV
 https://global.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MH9Z2yJQ/20240926-124258.png" group-title="JAGOBD", Discover Pakistan TV
@@ -205,15 +205,15 @@ https://global.ncare.live/live-orgin/deeptotv.stream/playlist.m3u8
 https://global.ncare.live/live-orgin/deentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="JAGOBD", DBC News
 https://global.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
-#EXTINF:-1,Asian TV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="JAGOOBD", Asian TV
 https://global.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
-#EXTINF:-1,Ananda TV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png" group-title="JAGOBD", Ananda TV
 https://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
-#EXTINF:-1,Colosal TV
+#EXTINF:-1 tvg-logo="Logo Link" group-title="JAGOBD", Colosal TV
 https://global.ncare.live/live-orgin/colosal.stream/playlist.m3u8
-#EXTINF:-1,Channel I
+#EXTINF:-1 tvg-logo="Logo Link" group-title="JAGOBD", Channel I
 https://global.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
-#EXTINF:-1,Channel Europe
+#EXTINF:-1 tvg-logo="Logo Link" group-title="JAGOBD", Channel Europe
 https://global.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8
 #EXTINF:-1,CGTN News
 https://global.ncare.live/live-orgin/cgtn.stream/playlist.m3u8
@@ -319,7 +319,7 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=e181c0f8&e=.m3u8|Referer=https://
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W36VmKqt/20240925-124304.png" group-title="BANGLADESH", ATN ISLAMIC
 http://filex.tv:8080/live/new/new/478589.ts 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13z88RF4/20240925-081506.png" group-title="BANGLADESH", EKUSHEY TV HD
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3BS2efe8497gpL6efDrMQA/ts 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="BANGLADESH", NTV
 http://lifetvbd.xyz:8080/live/123/123/78.ts  
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png" group-title="BANGLADESH", RTV HD
