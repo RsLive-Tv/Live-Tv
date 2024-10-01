@@ -205,7 +205,7 @@ https://global.ncare.live/live-orgin/deeptotv.stream/playlist.m3u8
 https://global.ncare.live/live-orgin/deentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="JAGOBD", DBC News
 https://global.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="JAGOOBD", Asian TV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="JAGOBD", Asian TV
 https://global.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png" group-title="JAGOBD", Ananda TV
 https://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
@@ -215,19 +215,19 @@ https://global.ncare.live/live-orgin/colosal.stream/playlist.m3u8
 https://global.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="JAGOBD", Channel Europe
 https://global.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", m3u8 CGTN News
+#EXTINF:-1 tvg-logo="Logo Link" group-title="JAGOBD", m3u8 CGTN News
 https://global.ncare.live/live-orgin/cgtn.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", m3u8 CGTN Documentary
+#EXTINF:-1 tvg-logo="Logo Link" group-title="JAGOBD", CGTN Documentary
 https://global.ncare.live/live-orgin/cgtndoc.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", m3u8 Boishakhi TV
+#EXTINF:-1 tvg-logo="Logo Link" group-title="JAGOBD", m3u8 Boishakhi TV
 https://global.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", m3u8 ,Biswa Bangla 24
+#EXTINF:-1 tvg-logo="Logo Link" group-title="JAGOBD", m3u8 ,Biswa Bangla 24
 https://global.ncare.live/live-orgin/biswabanglatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", m3u8 ATN News
+#EXTINF:-1 tvg-logo="Logo Link" group-title="JAGOBD", m3u8 ATN News
 https://global.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", m3u8 Banglavision HD
+#EXTINF:-1 tvg-logo="Logo Link" group-title="JAGOBD", m3u8 Banglavision HD
 https://global.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", m3u8 Bangla TV
+#EXTINF:-1 tvg-logo="Logo Link" group-title="JAGOBD", m3u8 Bangla TV
 https://global.ncare.live/live-orgin/banglatvhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="JAGOBD", m3u8 Bangla 24 Canada
 https://global.ncare.live/live-orgin/b24c.stream/playlist.m3u8
