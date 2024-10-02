@@ -457,7 +457,7 @@ http://tv.cloudcdn.me/live.ts?channelId=79&uid=13433&deviceMac=00:1A:79:00:97:A1
 https://cdn3.pishow.tv/live/281/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGmDpPUuTlswQS_uSQZLh-sV81n6B1oxtOt4IkujBZwTJTvrwLA5OYi4&s=10" group-title="KOLKATA", BANGLA PLUS
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8     
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8      
 
  ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 SPORTS Playlist 
@@ -671,7 +671,7 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 https://cdn3.pishow.tv/live/283/master.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1b4NB4N/20240813-063839.png" group-title="KIDS", NICK HINDI
-https://medialive.akash-go.com/out/v1/9bf2c1e016aa4e47be84550af30ea070/index_video_7_0_3062999.mp4?m=1726050957  
+http://103.110.110.11:8081/live/NickJR/playlist.m3u8   
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmDWZfN/20240813-063935.png" group-title="KIDS", NICK BANGLA
 http://14.102.123.50:5001/live/1341.m3u8  
