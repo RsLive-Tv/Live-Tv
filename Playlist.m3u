@@ -367,7 +367,7 @@ http://opplex.tv:8080/live/global/global/245914.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kyxby2Q/20240826-230739.png" group-title="BANGLADESH", NEWS 24 HD
 http://176.119.29.52/live.ts?channelId=107&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="BANGLADESH", NAGORIK TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=2psLnK8Ja88Fa35-J60trw&expires=1727059962&user=d477246e9e724f81a011b847457e71c4   
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=7c7CTld8sPZzJ1ZyjdK9Fg&expires=1728164155&user=d477246e9e724f81a011b847457e71c4    
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/375/logo/240x240/mobile_logo_453885001655891270.png" group-title="BANGLADESH", BANGLA TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHn2Zbm/20240826-230932.png" group-title="BANGLADESH", BANGLA TV EUROPE
@@ -462,6 +462,9 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
  ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 SPORTS Playlist 
 কপি করা নিষেধ 
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/w2KrotbGFY8/hq720.jpg?v=66fe32f8&sqp=CLi1-bcG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAt8klHrbPYW4P_vGMUKpU4BE2rCw" group-title="BANGLADESH", NAGORIK TV
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=7c7CTld8sPZzJ1ZyjdK9Fg&expires=1728164155&user=d477246e9e724f81a011b847457e71c4 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3MmtNRr/Lalega.png" group-title="SPORTS", LA LIGA TV
 https://a2uy.short.gy/VIL-V-FCB/TG@ZubayerOp_Official.m3u8   
 
