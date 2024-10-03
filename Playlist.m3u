@@ -461,16 +461,12 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
  ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 SPORTS Playlist 
-কপি করা নিষেধ 
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/w2KrotbGFY8/hq720.jpg?v=66fe32f8&sqp=CLi1-bcG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAt8klHrbPYW4P_vGMUKpU4BE2rCw" group-title="SPORTS", NAGORIK TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=7c7CTld8sPZzJ1ZyjdK9Fg&expires=1728164155&user=d477246e9e724f81a011b847457e71c4 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3MmtNRr/Lalega.png" group-title="SPORTS", LA LIGA TV
 https://a2uy.short.gy/VIL-V-FCB/TG@ZubayerOp_Official.m3u8   
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hpt80PJ/20240922-114352.png" group-title="SPORTS", Gazi Tv
-https://www.bdixiptvhub.xyz/nparvez//hybrid/master.m3u8?id=GTV  
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/w2KrotbGFY8/hq720.jpg?v=66fe32f8&sqp=CLi1-bcG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAt8klHrbPYW4P_vGMUKpU4BE" group-title="SPORTS", Bangladesh v Scotland, নারী 
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=7c7CTld8sPZzJ1ZyjdK9Fg&expires=1728164155&user=d477246e9e724f81a011b847457e71c4   
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo8Xe1CmLmni52OirIeiw9IXL54SMcIPOypGMoZ1MZpCNAPe-0s7igpHEb&s=10" group-title="SPORTS", Football Live
 https://hw1.jemtv.com/app/tv85/chunks.m3u8    
