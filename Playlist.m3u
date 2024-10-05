@@ -670,7 +670,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m
 KIDS Playlist 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/ed/Duronto_TV_logo.png/revision/latest/scale-to-width-down/340?cb=20230525082520" group-title="KIDS", DURONTO TV
-http://tv.cloudcdn.me/live.ts?channelId=74553&uid=5284&deviceMac=00:1A:79:17:C0:71 http://tv.cloudcdn.me/live.ts?channelId=74553&uid=5284&deviceMac=00:1A:79:17:C0:71  
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV9bReJ_ugdjH79XP4rKGcGt_tBL8nI_4xwA&usqp=CAU  http://tv.cloudcdn.me/live.ts?channelId=74553&uid=5284&deviceMac=00:1A:79:17:C0:71  
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="KIDS", RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
@@ -706,7 +706,7 @@ http://119.156.26.155:8000/play/a05u/index.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=250&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png" group-title="KIDS", POGO
-https://fmrx.short.gy/bdix_iptv_hub/pogo.m3u8
+http://172.16.29.34/ontest1/ontest1/400 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3XcWbG/20240803-103747.png" group-title="KIDS", GUBBARE
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
