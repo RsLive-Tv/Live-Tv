@@ -467,10 +467,10 @@ SPORTS Playlist
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0UkGIh4AlCNUo2n77rugZEefpmuXTG_TBR3yU4SdfQiTwwe1KuzcYjGA&s=10" group-title="SPORTS", Women's T20 World Cup 2024
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=7c7CTld8sPZzJ1ZyjdK9Fg&expires=1728164155&user=d477246e9e724f81a011b847457e71c4   
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqtdhkF4/20241005-165038.png" group-title="SPORTS", T Sports 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqtdhkF4/20241005-165038.png" group-title="SPORTS", T Sports BDIX
 http://172.16.29.34/ontest1/ontest1/181 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZI TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZI TV HD BDIX
 http://172.16.29.34/ontest1/ontest1/233 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3MmtNRr/Lalega.png" group-title="SPORTS", LA LIGA TV
@@ -576,7 +576,7 @@ http://starshare.live:8080/live/664140/664140/5040.ts
  http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXrtZdxIldSepPloQSmwA9YMVPCL53y-o5GA&s",Sports 18
-http://119.156.26.155:8000/play/a005/11622899.m3u8  
+http://172.16.29.34/ontest1/ontest1/336   
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoQ6XYZM5_Qf3_R0P3QfFOBIu4tHvM1lP4Qqv6vNPM81LexuFn6ThvG8B1&s=10",Sports Tv
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
