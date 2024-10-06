@@ -196,7 +196,7 @@ Jagobd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13z88RF4/20240925-081506.png" group-title="JAGOBD", Ekushey TV
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3BS2efe8497gpL6efDrMQA/ts 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="JAGOBD", Ekattor TV
-https://global.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=95&uid=1904&deviceMac=00:1A:79:4C:9A:52 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MH9Z2yJQ/20240926-124258.png" group-title="JAGOBD", Discover Pakistan TV
 https://global.ncare.live/live-orgin/discoverpakistan.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqcS7rnS/images-10.jpg" group-title="JAGOBD", Deepto TV
