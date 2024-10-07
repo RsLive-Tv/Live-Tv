@@ -311,7 +311,7 @@ http://176.119.29.52/live.ts?channelId=44154&uid=13433&deviceMac=00:1A:79:00:97:
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/1/logo/240x240/mobile_logo_310000001673183767.png" group-title="BANGLADESH", BTV WORLD
 http://filex.tv:8080/live/new/new/478583.ts  
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png" group-title="BANGLADESH", ATN BANGLA 
-https://global.ncare.live/live-orgin/atnbanglauk-off.stream/live-orgin/atnbanglauk-off.stream/chunks.m3u8?nimblesessionid=387517810    
+https://global.ncare.live/live-orgin/https://global.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8     
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="BANGLADESH", ATN NEWS 
 http://filex.tv:8080/live/new/new/478589.ts 
 #EXTINF:-1 tvg-id="e181c0f8" tvg-name="ATN Music" tvg-logo="https://i.postimg.cc/1txRrwW7/20240925-123659.png" group-title="BANGLADESH",ATN Music
