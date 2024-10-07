@@ -680,7 +680,7 @@ https://cdn3.pishow.tv/live/283/master.m3u8
 http://103.110.110.11:8081/live/NickJR/playlist.m3u8   
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmDWZfN/20240813-063935.png" group-title="KIDS", NICK BANGLA
-http://14.102.123.50:5001/live/1341.m3u8  
+https://mrking.online/Like/live.m3u8?id=1341   
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rzSwnH/20240803-101416.png" group-title="KIDS", SONIC HINDI
 http://tv.cloudcdn.me/live.ts?channelId=40476&uid=13603&deviceMac=00:1A:79:64:B4:A6
