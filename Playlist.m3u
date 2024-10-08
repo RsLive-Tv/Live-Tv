@@ -366,8 +366,8 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?
 http://opplex.tv:8080/live/global/global/245914.ts 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kyxby2Q/20240826-230739.png" group-title="BANGLADESH", NEWS 24 HD
 http://176.119.29.52/live.ts?channelId=107&uid=13603&deviceMac=00:1A:79:64:B4:A6
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="BANGLADESH", NAGORIK TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=7c7CTld8sPZzJ1ZyjdK9Fg&expires=1728164155&user=d477246e9e724f81a011b847457e71c4    
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="BANGLADESH", NAGORIK TV BDIX
+http://172.16.29.34/ontest1/ontest1/252     
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/375/logo/240x240/mobile_logo_453885001655891270.png" group-title="BANGLADESH", BANGLA TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHn2Zbm/20240826-230932.png" group-title="BANGLADESH", BANGLA TV EUROPE
@@ -462,11 +462,20 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
  ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 SPORTS Playlist 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPNEibUAEwyPMaDDmTBPrA1ndI42w9vlxLUaLr6VX7O9qNI1juF-mITVA&s=10" group-title="SPORTS", BAN vs IND 2024
+https://allinoneott.com/live/tsfile.php?url=https://fifabd.xyz/JOIN@TGxRANAPK33/play.m3u8?id=match-2  
+
 #EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F301637%2Flogo%2F240x240%2Fmobile_logo_418608001727851921.png&w=256&q=75" group-title="SPORTS", Women's T20 World Cup 2024
-http://172.16.29.34/ontest1/ontest1/252    
+https://allinoneott.com/live/tsfile.php?url=https://fifabd.xyz/JOIN@TGxRANAPK33/play.m3u8?id=match-1     
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqtdhkF4/20241005-165038.png" group-title="SPORTS", T Sports BDIX
 http://172.16.29.34/ontest1/ontest1/181 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqtdhkF4/20241005-165038.png" group-title="SPORTS", T Sports Live 1
+https://allinoneott.com/live/tsfile.php?url=https://live-cdn.tsports.com/live-01/master_720.m3u8  
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqtdhkF4/20241005-165038.png" group-title="SPORTS", T Sports Live 2
+https://allinoneott.com/live/tsfile.php?url=https://live-cdn.tsports.com/live-02/master_720.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZI TV HD BDIX
 http://172.16.29.34/ontest1/ontest1/233 
