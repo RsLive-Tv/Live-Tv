@@ -210,7 +210,7 @@ https://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qJjY1xc/20241002-092404.png" group-title="JAGOBD", Colosal TV
 https://global.ncare.live/live-orgin/colosal.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png" group-title="JAGOBD", Channel I
-https://global.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
+https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=9pYb0Mj7JRY8eLGJlsZS6w&expires=1728613770&user=c15be118d93a464dabf77260596012cf 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="JAGOBD", Channel Europe
 https://global.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="JAGOBD", CGTN News
@@ -323,7 +323,7 @@ http://lifetvbd.xyz:8080/live/123/123/78.ts
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png" group-title="BANGLADESH", RTV HD
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png" group-title="BANGLADESH", CHANNEL I HD
-http://on.deflix.xyz:8880/kamrul19/kamrul1715/1295  
+https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=9pYb0Mj7JRY8eLGJlsZS6w&expires=1728613770&user=c15be118d93a464dabf77260596012cf   
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png" group-title="BANGLADESH", BANGLA VISION HD
 http://176.119.29.52/live.ts?channelId=84&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGrT0TZW/Duronto.png" group-title="BANGLADESH", DURONTO TV
@@ -361,7 +361,7 @@ http://176.119.29.52/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC:16
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BANGLADESH", JAMUNA TV
 https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=gq9FAMItCM03QRNFMZ_WRA&expires=1724916407&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqcS7rnS/images-10.jpg" group-title="BANGLADESH", DEEPTO TV HD
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=1726ae10&e=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="BANGLADESH", DBC NEWS
 http://opplex.tv:8080/live/global/global/245914.ts 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kyxby2Q/20240826-230739.png" group-title="BANGLADESH", NEWS 24 HD
