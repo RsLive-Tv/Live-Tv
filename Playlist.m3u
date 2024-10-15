@@ -11,10 +11,10 @@ https://bdiptv24.com/Toffeelive/live.php?id=9b35bbb302b9&e=.m3u8
 http://172.16.29.34/ontest1/ontest1/181  
  
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="TOFFEE", TOFFEE SPORTS 	
-https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8 
+http://freeflix.run.place/toffee/playlist.m3u8  
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="TOFFEE", TOFFEE MOVIES 	
-https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
+http://freeflix.run.place/toffee/playlist.m3u8 
  
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="TOFFEE", TOFFEE DRAMAS 	
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8 
