@@ -438,13 +438,16 @@ https://allinoneott.com/live/tsfile.php?url=https://fifabd.xyz/JOIN@TGxRANAPK33/
 http://172.16.29.34/ontest1/ontest1/181 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqtdhkF4/20241005-165038.png" group-title="SPORTS", T Sports Live 1
-https://allinoneott.com/live/tsfile.php?url=https://live-cdn.tsports.com/live-01/master_720.m3u8  
+http://172.16.29.3:8080/hls/tsportsfhd.m3u8   
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqtdhkF4/20241005-165038.png" group-title="SPORTS", T Sports Live 2
 https://allinoneott.com/live/tsfile.php?url=https://live-cdn.tsports.com/live-02/master_720.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZI TV HD BDIX
 http://172.16.29.34/ontest1/ontest1/233 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtbtLMkpabzboj1J0yCJHrCrrcdEFqbfst_NrLJfyl2jz80hikm1eT_N43&s=10" group-title="SPORTS", Soco Live
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=d6682d93b83ff5f475eb17e9258fbd1a&txTime=670f576a 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3MmtNRr/Lalega.png" group-title="SPORTS", LA LIGA TV
 https://a2uy.short.gy/VIL-V-FCB/TG@ZubayerOp_Official.m3u8 
