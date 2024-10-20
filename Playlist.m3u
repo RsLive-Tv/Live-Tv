@@ -97,11 +97,11 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=e181c0f8&e=.m3u8|Referer=https://
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W36VmKqt/20240925-124304.png" group-title="BANGLADESH", ATN ISLAMIC
 https://entezeetv.fun/bdcast/hls/cdn_mcast.m3u8?id=fef81161d9b18c1431b124e70f3cbafaebd21355f8585eafbc2ca005084882fc9a61ea017c3b67e9a7ffd3dcc872b37511f2c652cb871ae0279a42b6156121a9999cd2eaec47252cb4e117dfc76b85d1 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13z88RF4/20240925-081506.png" group-title="BANGLADESH", EKUSHEY TV HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3BS2efe8497gpL6efDrMQA/ts 
+https://tgaadi-web.tech/portal/play.php?stream=96  
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="BANGLADESH", NTV
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2364.m3u8   
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png" group-title="BANGLADESH", RTV HD
-https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
+https://tgaadi-web.tech/portal/play.php?stream=112 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png" group-title="BANGLADESH", CHANNEL I HD
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2348.m3u8     
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png" group-title="BANGLADESH", BANGLA VISION HD
@@ -115,7 +115,7 @@ http://tv.cloudcdn.me/live.ts?channelId=93&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/339/logo/240x240/mobile_logo_897303001655891103.png" group-title="BANGLADESH", MY TV HD
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png" group-title="BANGLADESH", MOHONA TV HD
-http://176.119.29.52/live.ts?channelId=103&uid=13603&deviceMac=00:1A:79:64:B4:A6
+https://tgaadi-web.tech/portal/play.php?stream=103 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png" group-title="BANGLADESH", BIJOY TV HD
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2360.m3u8 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="BANGLADESH", SOMOY TV HD
@@ -133,7 +133,7 @@ http://172.16.29.34/ontest1/ontest1/181
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="BANGLADESH", GAZI TV HD
 http://172.16.29.34/ontest1/ontest1/233    
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="BANGLADESH", EKATTOR TV HD
-http://tv.cloudcdn.me/live.ts?channelId=95&uid=13603&deviceMac=00:1A:79:64:B4:A6
+https://tgaadi-web.tech/portal/play.php?stream=95 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="BANGLADESH", ASIAN TV HD
 https://mtlivestream.com/asian/ytlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBbTPtQ/20240826-230616.png" group-title="BANGLADESH", SATV HD
@@ -252,10 +252,10 @@ https://allinoneott.com/live/tsfile.php?url=https://fifabd.xyz/JOIN@TGxRANAPK33/
 http://172.16.29.34/ontest1/ontest1/181 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqtdhkF4/20241005-165038.png" group-title="SPORTS", T Sports Live 1
-http://172.16.29.3:8080/hls/tsportsfhd.m3u8   
+https://tgaadi-web.tech/portal/play.php?stream=98    
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqtdhkF4/20241005-165038.png" group-title="SPORTS", T Sports Live 2
-https://allinoneott.com/live/tsfile.php?url=https://live-cdn.tsports.com/live-02/master_720.m3u8  
+https://hotflixbd.online/T-Sports/index.m3u8   
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZI TV HD BDIX
 http://172.16.29.34/ontest1/ontest1/233 
