@@ -151,7 +151,7 @@ https://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8?md5=zxFMoWdEREHzv
 https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=5t0Dfu0tyQ7MbAd495iVJQ&expires=1729642362&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 tvg-name="Duronto TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png" tvg-id="<built-in function id>" group-title="JadooBD",Duronto TV 	
-https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=i8koql6Iqi8cPk6lHjR4ZQ&expires=1729640910&user=d477246e9e724f81a011b847457e71c4 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2352.m3u8  
 
 #EXTINF:-1 tvg-name="Ekattor TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png" tvg-id="<built-in function id>" group-title="JadooBD",Ekattor TV 	
 https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=7L_dCaOlGUkaKPEsOIhujQ&expires=1729640911&user=d477246e9e724f81a011b847457e71c4 
@@ -585,8 +585,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥
 KIDS Playlist 
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="KIDS", Discovery Bangla 
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/ed/Duronto_TV_logo.png/revision/latest/scale-to-width-down/340?cb=20230525082520" group-title="KIDS", DURONTO TV
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV9bReJ_ugdjH79XP4rKGcGt_tBL8nI_4xwA&usqp=CAU  http://tv.cloudcdn.me/live.ts?channelId=74553&uid=5284&deviceMac=00:1A:79:17:C0:71  
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2352.m3u8   
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="KIDS", RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
