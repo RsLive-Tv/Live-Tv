@@ -183,7 +183,7 @@ https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=Ut74W-RBzaGYm
 #EXTINF:-1 tvg-name="NHK World" tvg-logo="https://edge01.iptv.digijadoo.net/static/nhk_world.png" tvg-id="<built-in function id>" group-title="Jadoo BD",NHK World 	
 https://edge01.iptv.digijadoo.net/live/nhk_world/playlist.m3u8?md5=GxqgRH3lyzEJ0YFx4u_mcQ&expires=1729640920&user=d477246e9e724f81a011b847457e71c4 
 
-#EXTINF:-1 tvg-name="NTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ntv.png" tvg-id="<built-in function id>" group-title="JadooBD",NTV 	
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ntv.png" tvg-id="<built-in function id>" group-title="Jadoo BD",NTV 	
 https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=_ZbGEK30irQXJWhc4RoOqQ&expires=1729640921&user=d477246e9e724f81a011b847457e71c4 
 
 #EXTINF:-1 tvg-name="Nagorik TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png" tvg-id="<built-in function id>" group-title="Jadoo BD",Nagorik TV 	
