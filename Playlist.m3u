@@ -368,7 +368,7 @@ http://tv.cloudcdn.me/live.ts?channelId=79&uid=13433&deviceMac=00:1A:79:00:97:A1
 https://tgaadi-web.tech/portal/play.php?stream=113 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGmDpPUuTlswQS_uSQZLh-sV81n6B1oxtOt4IkujBZwTJTvrwLA5OYi4&s=10" group-title="KOLKATA", BANGLA PLUS
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8      
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8       
 
  ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 SPORTS Playlist 
@@ -800,7 +800,7 @@ http://lifetvbd.xyz:8080/live/123/123/341.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYvtLRwr/20241005-184204.png" group-title="DOCUMENTORY", Nat Geo Bangla 
 http://172.16.29.34/ontest1/ontest1/312    
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw2H5uIE3tUj5-mqGLEdigKny_R3FMcrbkmFg8M9Arg1XpERW1zi2Doh8T&s=10" group-title="DOCUMENTORY", Nat Geo English 
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
+http://103.110.110.11:8081/live/NGC/playlist.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", SHEMAROO TV
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Xq5NgM/20240804-145843.png" group-title="DOCUMENTORY", SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
