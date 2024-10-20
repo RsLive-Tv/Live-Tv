@@ -18,16 +18,16 @@ https://stream.imotv.online/toffe/live.php?id=99cf56ce2888&e=.m3u8
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="TOFFEE", SONY SPORTS TEN 1 HD 	
-https://tmsbd.top/tgg/bz.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_ten1_hd_576/sony_ten1_hd_576.m3u8?bitrate=1000000&channel=sony_ten1_hd_576&gp_id=  
+https://hotflixbd.online/Ten1/index.m3u8   
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="TOFFEE", SONY SPORTS TEN 2 HD 	
-https://tmsbd.top/tgg/bz.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_ten2_hd_576/sony_ten2_hd_576.m3u8?bitrate=1000000&channel=sony_ten2_hd_576&gp_id= 
+https://hotflixbd.online/Ten2/index.m3u8 hd_576&gp_id= 
  
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="TOFFEE", SONY SPORTS TEN 3 HD 	
-https://tmsbd.top/tgg/bz.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_ten3_hd_576/sony_ten3_hd_576.m3u8?bitrate=1000000&channel=sony_ten3_hd_576&gp_id=   
+https://hotflixbd.online/Ten3/index.m3u8    
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="TOFFEE", SONY SPORTS TEN 5 HD 	
- https://tmsbd.top/tgg/bz.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_six_hd_576/sony_six_hd_576.m3u8?bitrate=1000000&channel=sony_six_hd_576&gp_id=  
+https://hotflixbd.online/Ten5/index.m3u8   
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="TOFFEE", ZEE BANGLA 	
 http://217.20.112.199/zeebangla/index.m3u8  
 
@@ -306,19 +306,16 @@ http://xtv.ooo:8080/live/15155419/16175512/371470.ts
 http://xtv.ooo:8080/live/15155419/16175512/371471.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png",Sony Ten 1
-https://tmsbd.top/tgg/bz.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_ten1_hd_576/sony_ten1_hd_576.m3u8?bitrate=1000000&channel=sony_ten1_hd_576&gp_id=   
+https://hotflixbd.online/Ten1/index.m3u8 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png",Sony Ten 2
-https://tmsbd.top/tgg/bz.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_ten2_hd_576/sony_ten2_hd_576.m3u8?bitrate=1000000&channel=sony_ten2_hd_576&gp_id=   
+https://hotflixbd.online/Ten2/index.m3u8 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png",Sony Ten 3
-https://tmsbd.top/tgg/bz.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_ten3_hd_576/sony_ten3_hd_576.m3u8?bitrate=1000000&channel=sony_ten3_hd_576&gp_id=  
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",Sony Ten 4
-https://tmsbd.top/tgg/bz.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_six_hd_576/sony_six_hd_576.m3u8?bitrate=1000000&channel=sony_ten4_hd_576&gp_id= 
+https://hotflixbd.online/Ten3/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png",Sony Ten 5
-https://tmsbd.top/tgg/bz.php?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_six_hd_576/sony_six_hd_576.m3u8?bitrate=1000000&channel=sony_six_hd_576&gp_id=   
+https://hotflixbd.online/Ten5/index.m3u8    
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrOO-pFRfbJXcWgOXEF47LdoWgrtNB2YZMqw&s",super sports cricket
 http://xtv.ooo:8080/live/15155419/16175512/238475.ts
@@ -375,43 +372,41 @@ http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/112965.ts
 http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/112962.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTezQXb8PYfL8PPgNw6ax49NNjfxdzpqPlwfQ&usqp=CAU",DAZN 1
-http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/132601.ts
+https://zjdmi53knyt.a.trbcdn.net/dazn1/index.m3u8 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhh6iywns8suwntXJeYNc3FV9QKBHsRxLEFw&usqp=CAU",DAZN 2
-http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/132602.ts
+https://zjdmi53knyt.a.trbcdn.net/dazn2/index.m3u8 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ79pNwyuEhZLqq1V8_qkNkNm5ROd5t-O24GhDQ9nyzR5n9q5EWxYtPBSs&s=10",DAZN 3
-http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/132605.ts
+https://zjdmi53knyt.a.trbcdn.net/dazn3/index.m3u8 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmg-Ef2g6faU99TANGkQaQbO7a17fJHkC9G5vYbagAgzlUoQYsAoyYEvqM&s=10",DAZN 4
-http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/132607.ts
+https://zjdmi53knyt.a.trbcdn.net/dazn4/index.m3u8 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSwuP2CulDWIGTNKruNNHkTNKfS1uqWn1oFvylGmtXO6fNBwtPQqbo-4Dr&s=10",DAZN 5
-http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/132609.ts
+https://zjdmi53knyt.a.trbcdn.net/dazn5/index.m3u8 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/DAZN_6_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713210829",DAZN 6
-http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/132611.ts
+https://zjdmi53knyt.a.trbcdn.net/dazn6/index.m3u8 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbSoublMxWKttpWxECrApR1jzWo_I01d2-nw&usqp=CAU",Sport.Tv 1
-http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/132712.ts
+https://8r1fp7ro6am.a.trbcdn.net/SportTV1/tracks-v4a1/mono.m3u8 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTPyj5vrlh4jnktbsyoFCuzCbeBvN47catnw&usqp=CAU",Sport.Tv 2
-http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/132713.ts
+https://8r1fp7ro6am.a.trbcdn.net/SportTV2/index.m3u8 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRphwTs5qgFYxQiCaVC9HWN1iQAARMrh8l6dg&usqp=CAU",Sport.Tv 3
-http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/132718.ts
+https://8r1fp7ro6am.a.trbcdn.net/SportTV3/index.m3u8 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe9CvrQlbD2idF8I__TRfgb6Qw3Ks4lLiR4g&usqp=CAU",Sport.Tv 4
-http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/132721.ts
+https://8r1fp7ro6am.a.trbcdn.net/SportTV4/index.m3u8 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhqCxc46WsRjQA-39Yd6hbAE0R7NteYtlFHQ&usqp=CAU",Sport.Tv 5
-http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/132722.ts
+https://8r1fp7ro6am.a.trbcdn.net/SportTV5/index.m3u8 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqZKGMKFxGg4ztxI_Saar2JHCDDdg9gX31gx1tZ5CKgDpTm-RMQuKfSodr&s=10",Real Madrid Tv
-http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/48543.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-tv-6-2619.png", Sport.Tv6
+https://8r1fp7ro6am.a.trbcdn.net/SportTV6/index.m3u8 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOHi20sw24doTJAX41cYBQ6W1M6WDuL1T1-gi2AWtZi21RdNB5xtIp1rEe&s=10",Golf Network
-http://202.60.106.14:8080/1335/playlist.m3u8 
 
 ───────────────❥ ➽───────────────❥ 
 ZEE-5 Playlist 
