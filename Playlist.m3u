@@ -3,7 +3,7 @@
 https://video.twimg.com/ext_tw_video/1847158269573582848/pu/pl/k5cWOa0VSSroQAo9.m3u8?variant_version=1&tag=12  
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>JadooBD<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-#EXTM3U
+
 #EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png" tvg-id="<built-in function id>" group-title="Jadoo-BD",ATN Bangla
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=1yqUQwOwh2G7nrVN2sio1g&expires=1729882250&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1 tvg-name="ATN News" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" tvg-id="<built-in function id>" group-title="Jadoo-BD",ATN News
@@ -350,10 +350,10 @@ KOLKATA Playlist
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3W9qiYW7toPvoJs-jvG0zhxuFFp1EQq1OfHnMWGVQSzeH3bXz78Md696q&s=10" group-title="KOLKATA", STAR JALSHA HD
-http://217.20.112.199/starjalshahd/index.m3u8     
+https://tgaadi-web.tech/portal/play.php?stream=116592     
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfbaZZZ7rdDl1dY8uh97E8kcRiyfzmJNHRtErbVKPkYk2O2imNwT9DyI&s=10" group-title="KOLKATA", STAR JALSHA 
-http://xtv.ooo:8080/live/09448630/09888785/245898.ts     
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts=     
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Q7uapuWTAVRaD039RIlS1megRzg0sL3rT441eQJyIA7uvtkKBuIm4Yg&s=10" group-title="KOLKATA", JALSHA MOVIES
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=5284&deviceMac=00:1A:79:17:C0:71  
