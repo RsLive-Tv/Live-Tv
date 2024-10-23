@@ -540,10 +540,10 @@ SPORTS Playlist
 http://172.16.29.34/ontest1/ontest1/181 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqtdhkF4/20241005-165038.png" group-title="SPORTS", T Sports Live 1
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=jUw2PFuqRnZuKDtM-7eUcg&expires=1729640930&user=d477246e9e724f81a011b847457e71c4     
+https://cdn.livestreambd.com/TSports/index.m3u8      
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqtdhkF4/20241005-165038.png" group-title="SPORTS", T Sports Live 2
-https://live-cdn.tsports.com/live-02/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1729546698:KeyName=tsports-ed25519-01:Signature=OXiXpececnCzqjLNe3_3kE4zr9c5jRY290_BJN-5fk5Mifc1GledQ0pK2O9KM8fRLMfWZqM3D-W4FLRkBT1qDQ    
+https://live-cdn.tsports.com/live-02/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1729719340:KeyName=tsports-ed25519-01:Signature=PUZa-OItMjdjGhkDFbgXN1KY_-rGPrOv8Ff_K0PO9OMOI658lJouzPH03lZ9ejkP9fEGJoF0sZgOHJLCfxKCDg     
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZI TV HD BDIX
 http://172.16.29.34/ontest1/ontest1/233 
@@ -688,7 +688,7 @@ https://zjdmi53knyt.a.trbcdn.net/dazn6/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbSoublMxWKttpWxECrApR1jzWo_I01d2-nw&usqp=CAU",Sport.Tv 1
 https://8r1fp7ro6am.a.trbcdn.net/SportTV1/tracks-v4a1/mono.m3u8 
-
+k
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTPyj5vrlh4jnktbsyoFCuzCbeBvN47catnw&usqp=CAU",Sport.Tv 2
 https://8r1fp7ro6am.a.trbcdn.net/SportTV2/index.m3u8 
 
