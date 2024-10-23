@@ -543,7 +543,7 @@ http://172.16.29.34/ontest1/ontest1/181
 https://cdn.livestreambd.com/TSports/index.m3u8      
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqtdhkF4/20241005-165038.png" group-title="SPORTS", T Sports Live 2
-https://live-cdn.tsports.com/live-02/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1729719340:KeyName=tsports-ed25519-01:Signature=PUZa-OItMjdjGhkDFbgXN1KY_-rGPrOv8Ff_K0PO9OMOI658lJouzPH03lZ9ejkP9fEGJoF0sZgOHJLCfxKCDg     
+http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZI TV HD BDIX
 http://172.16.29.34/ontest1/ontest1/233 
