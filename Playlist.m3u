@@ -382,7 +382,7 @@ http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:
 http://xtv.ooo:8080/live/09448630/09888785/245897.ts 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LSGYOzg0wayccEIQSsL_4ij_cQhnOTd7n4MLixEWuLTBUujEBolmXlOKkzFpksRyb6SF" group-title="KOLKATA", SUN BANGLA
-http://51.159.212.144:8080/live/play/ZVRsSFdHeE1UbHBxU21zNVIxcHNlbWt2Tm1Ka1lUTTRZaTl1VkZvdkt5OUhjemxKTDNsUFEyaFRRVDA9/245906
+http://opplextv.cyou:8080/live/global/global/245906.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png/revision/latest?cb=20210423103549" group-title="KOLKATA", KHUSHBOO BANGLA
 https://cdn3.pishow.tv/live/283/master.m3u8
