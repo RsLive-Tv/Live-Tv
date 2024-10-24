@@ -1017,41 +1017,74 @@ https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7CfVCyN/20240816-213549.png" group-title="HINDI MOVIES", ZEE ANIMOL CINEMA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/Zeeanmolcinema1.m3u8
 
-➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+➽───────────────❥ ➽───────────────❥ Infotainment➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlrq_vnnCkITjp-iHmIVcDFNId6kV_fwis_aum351XWvd88JllFxa1wnQq&s=10" group-title="DOCUMENTORY", Animal Planet
-https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8  
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/tlc-logo.png" group-title="DOCUMENTORY", TLC 
-https://varun-iptv.netlify.app/m3u/TLC.m3u8   
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYgRc1lrUmKeVJj7_85fqp-81xHzGuKGsGQ&usqp=CAU" group-title="DOCUMENTORY", Discovery Bangla 
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8  
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOeiYz7NNkL4E9m7goDH4vlTdyTKibqG-9nN4w_ytPyzXK2SVbaQqy0Go&s=10" group-title="DOCUMENTORY", Discovery Hindi 
-https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8  
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBWN6mM7JNIMh52-isBW1RwKcV6jlx_T9QkwUE8-NhxQ4SQRI-Li-e--Y&s=10" group-title="DOCUMENTORY", Discovery Relaxation
-http://lifetvbd.xyz:8080/live/123/123/9359.ts 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOzMgY4p0ZgT9c8a1plRNiDfAqKtze4Sx7cdp_w-sdQI_Giu4dB98ooDEI&s=10" group-title="DOCUMENTORY", Fox Weather 
-http://lifetvbd.xyz:8080/live/123/123/9356.ts 
-#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/10/19/HistoryTV18_logo.png" group-title="DOCUMENTORY", History TV 18 India 
-http://lifetvbd.xyz:8080/live/123/123/341.ts 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYvtLRwr/20241005-184204.png" group-title="DOCUMENTORY", Nat Geo Bangla 
-http://172.16.29.34/ontest1/ontest1/312    
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw2H5uIE3tUj5-mqGLEdigKny_R3FMcrbkmFg8M9Arg1XpERW1zi2Doh8T&s=10" group-title="DOCUMENTORY", Nat Geo English 
-http://103.110.110.11:8081/live/NGC/playlist.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", SHEMAROO TV
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xq5NgM/20240804-145843.png" group-title="DOCUMENTORY", SONY KAL
-https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", DD NATIONAL HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", COLORS RISHTEY
-http://tv.cloudcdn.me/live.ts?channelId=158&uid=13603&deviceMac=00:1A:79:64:B4:A6
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", NAZARA
-https://epiconvh.s.llnwi.net/nazara/master.m3u8 
-➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
-ISLAMIC Playlist
-#EXTINF:-1 group-title="Islamic" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png", AL QURAN
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Investigation_Discovery.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png",Discovery Asia
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy_AMqR4xkCe6AxrRVfb2K38qiMcoRh7FUVEByNfE-e44Tf3-5H7NVieXj&s=10",Discovery Science
+https://dplus.gammacdn.workers.dev/videos/96.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png",Discovery Turbo
+https://dplus.gammacdn.workers.dev/videos/98.m3u8IZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=232&uid=16068&deviceMac=00:1A:79:ED:10:29
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png",National Geographic
+http://opplextv.cyou:8080/live/global/global/109977.ts
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://i.imgur.com/g7I8nnR.png",National Geographic Bangla
+http://opplextv.cyou:8080/live/global/global/245967.ts
+#EXTINF:-1, group-title="Infotainment & Lifestyle" tvg-logo="https://w7.pngwing.com/pngs/925/173/png-transparent-nat-geo-wild-television-channel-national-geographic-television-show-live-stream-television-text-logo.png",NAT GEO WILD
+http://opplextv.cyou:8080/live/global/global/206286.ts
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://i.imgur.com/5lZ8dnC.png",Wild Earth
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/62bf69b2-7839-4177-a3a8-7002505913e9_180x180_SonyBBCEarth.jpg", Sony BBC Earth HD
+https://nowsports.in/sliv/stream.php?id=852&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png", Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+http://suprino.xyz/live/PMF3J9X/BV7HG8H/977934.ts
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://v.fastcdn.co/t/ce0680fc/05c22bcb/1709567857-50673365-959x267x959x540x0x137-WEATHERSPY-LOGO-WHIT.png",Weather Spy
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://i.postimg.cc/BQC2LTTG/Background-Eraser-20240628-144507906.png",HGTV
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/HGTV.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://i.ibb.co/R3jczyR/20240827-090734.png", DMAX
+https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png",TLC
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png",Star Life HD
+http://103.84.57.155:8000/play/a0ce/index.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11544-j9ju5kvc-v2/imageContent-11544-j9ju5kvc-m3.png",Zee Zest HD
+http://tv.cloudcdn.me/live.ts?channelId=29704&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://www.epicon.in/img/epic-tv.png",EPIC
+https://epiconvh.s.llnwi.net/epic/master.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png",History TV18 HD
+http://14.102.123.50:5001/live/146.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=70099&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://i.postimg.cc/BnfXNdM9/Travelxp-01.png",TravelXP
+https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.png", Travel Channel
+https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/4ktravel_960X540.jpg",4K Travel Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?v=1%20
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Food_Food.png/revision/latest?cb=20240319101022",Food Food
+http://tv.cloudcdn.me/live.ts?channelId=169&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",Food Network
+https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://thepetcollective.com/cdn/shop/files/tpc-footer-logo.png?v=1680706852&width=760",The Pet Collective
+https://linear-174.frequency.stream/dist/localnow/174/hls/master/playlist.m3u8
+#EXTINF:-1, group-title="Infotainment & Lifestyle", CGTN Documentary
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8|Referer=https://cdn.jagobd.com.bd
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png",Fashion TV
+https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+ISLAMIC Playlist
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png", AL QURAN
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWx#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYgRc1lrUmKeVJj7_85fqp-81xHzGuKGsGQ&usqp=CAU",Discovery
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png",AL SUNNAH
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
